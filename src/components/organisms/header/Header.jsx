@@ -28,7 +28,7 @@ export const Header = () => {
         )}
 
         {/* Side Drawer Menu */}
-        {/* <Sidebar status={nav} setStatus={setNav} /> */}
+        <Sidebar status={nav} setStatus={setNav} />
       </div>
     </header>
   );
