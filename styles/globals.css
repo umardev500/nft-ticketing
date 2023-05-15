@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero {
+  min-height: calc(100vh - 127px);
+}
+
+body {
+  font-family: "Inter";
+}
