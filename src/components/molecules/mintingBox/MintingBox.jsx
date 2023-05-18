@@ -187,7 +187,7 @@ export const MintingBox = ({ spinningBubbles, white }) => {
         <div className="">
           <ReactLoading
             type={spinningBubbles}
-            color={white}
+            color={'#555'}
             height={100}
             width={100}
             className="m-20"
