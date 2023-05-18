@@ -11,7 +11,7 @@ export const Header = () => {
   const [nav, setNav] = useState(false);
 
   return (
-    <header>
+    <header className="bg-black">
       <div className="w-full container mx-auto flex justify-between items-center py-6 px-4">
         <div className="flex items-center">
           <Image src={Logo} alt="Logo" />
