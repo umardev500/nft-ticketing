@@ -15,7 +15,7 @@ export const AppsHero = (title, description) => {
           <div className="mx-auto bg-red-10 md:mx-0 px-4">
             <Profile />
           </div>
-          <div className="px-4 mx-auto md:mx-0">
+          <div className="px-4 mx-auto md:mx-0 pb-20">
             <MintingBox />
           </div>
         </div>
